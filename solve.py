@@ -1,3 +1,6 @@
+## Week 4, Sudoku opdracht. Tjibbe Valkenburg - Minor Programmeren.
+# In this assignment the goal is to go over the code for a sudoku solver and implement code that fastens the executing of the sudoku solver.
+
 from __future__ import annotations
 from typing import Union
 
